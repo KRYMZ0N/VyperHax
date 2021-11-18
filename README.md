@@ -7,7 +7,7 @@ trying to be as active as I can, there are no modules and just a click gui, and 
 
 I plan on trying to add as much as I can to the utility mod!
 
-If you have any issues feel free to dm me on discord: KRYMZ0N#0001
+If you have any issues feel free to dm me on discord: KRYMZ0N#0001 or join this https://discord.gg/fustWrP4
 
 ## Dependencies
 Currently depends the Fabric API
