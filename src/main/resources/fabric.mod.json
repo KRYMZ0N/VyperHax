@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "vhx",
+  "version": "${version}",
+  "name": "VyperHax",
+  "description": "A Fabric Hacked client using PanelStudio",
+  "authors": [
+    "KRYMZ0N"
+  ],
+  "contact": {
+    "website": "www.3b3t.me"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.krymz0n.vyperhax.VyperHax"]
+  },
+  "mixins": [
+    "VyperHax.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}
